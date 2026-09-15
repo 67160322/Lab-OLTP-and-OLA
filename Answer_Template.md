@@ -412,5 +412,4 @@ sales (after JOIN)  8          1390
 
 ### การใช้ AI
 
-ใช้ AI ช่วยออกแบบโครงสร้าง SQL query สำหรับ CASE WHEN pivot และตรวจสอบ logic ของ assert grand total  
-จุดที่ตรวจแก้ด้วยตนเอง: ยืนยันว่า `AND status='PENDING'` ใน WHERE clause ทำให้ rowcount รอบสองเป็น 0 ซึ่งถูกต้องตามหลัก Idempotent Guard
+
